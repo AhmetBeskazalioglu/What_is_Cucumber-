@@ -164,7 +164,7 @@ In this Runner class, we specified where the feature files and Java classes are 
 
 ---
 
-The advantages of using Cucumber testing:
+**The advantages of using Cucumber testing:**
 
 - You can write your test scenarios in a clear and natural language, Gherkin. This allows you to share and get approval for your test scenarios from people who may not know how to code.
 
